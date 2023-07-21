@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "923955303376",
+    "firebase_url": "https://amigos-34d40-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "amigos-34d40",
+    "storage_bucket": "amigos-34d40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923955303376:android:5f0e51f82000fe900f1fd5",
+        "android_client_info": {
+          "package_name": "com.appsstudio.amigos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923955303376-epvev8i4l6m442hongvf18i2jp5p9qu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCw_vzf7HoRG6uCHYHyeRCJ51UcKFF0Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923955303376-epvev8i4l6m442hongvf18i2jp5p9qu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
